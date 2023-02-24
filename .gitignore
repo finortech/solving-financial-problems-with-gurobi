@@ -1,0 +1,10 @@
+*.csv
+*.feather
+*.parquet
+*.pyc
+*.pickle
+*.png
+.venv_gurobi
+venv
+__pychache__/*
+data
